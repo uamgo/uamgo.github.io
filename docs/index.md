@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 知识是通往人生巅峰的天梯
 
 You can use the [editor on GitHub](https://github.com/uamgo/uamgo.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
