@@ -1,31 +1,42 @@
-### 知识图谱
+## 为了猎物我可以奔跑一百公里
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+接下来我们一起积累以Java为主的学习经验，加油吧，少年！
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uamgo/uamgo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Java基础知识  
+- Hello World起步  
+- 认识基础项目搭建过程
+- 基本测试用例编写  
+## 常用测试方法  
+- Jmeter专题  
+- 代码覆盖率测试  
+## 常用命令  
+- jstat  
+- jmap  
+- jhat  
+- ps
+- netstat  
+- lsof  
+## 常用项目搭建   
+- protobuf项目  
+- jetty项目  
+- 前后端分离项目（备选）     
+## 安装部署   
+- Docker相关  
+- CI  
+- 搭建自己的repository  
+## 常用Maven插件  
+- lombok  
+- shade  
+- mvn-exec  
+- versions  
+- googlestyle  
+- checkstyle  
+- fmt-maven-plugin  
+- maven-release-plugin  
+- maven-deploy-plugin  
+- formatter-maven-plugin  
+- jacoco-maven-plugin  
+- maven-dependency-plugin
+- maven-sufire-plugin  
+- maven-failsafe-plugin  
