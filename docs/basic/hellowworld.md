@@ -4,7 +4,7 @@
 我经常会被问到各种Java方面的基础知识，借着自己经验把核心的内容记录下来，以便于那些想走向软件开发之路的同学入门，希望对大家有帮助，学习语言都有一定的相通之处，深挖一门之后，你可以无师自通其他语言。  
 
 ### Java基础知识  
-- [Hello World起步](basic/helloword.md){:target="_blank"}  
+- [Hello World起步](http://www.baidu.com){:target="_blank"}  
 - 认识Maven项目搭建过程
 - 基本测试用例编写  
 
