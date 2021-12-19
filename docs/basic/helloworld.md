@@ -3,8 +3,10 @@
 Hello World是我们学习任何一门语言的基石，来吧，一起敲门！  
 
 ### 环境准备    
-#### 安装JDK
+#### 安装JDK  
+安装的过程比较简单，这里不再赘述，可参考[JDK安装这篇](https://www.cnblogs.com/zll-wyf/p/15095664.html){:target="_blank"}  
 #### Intellij idea（或者Eclipse） 
+
 
 ### 详细步骤  
 #### 新建工程  
@@ -20,3 +22,5 @@ Intellij idea下载地址：[https://www.jetbrains.com/zh-cn/idea/download/#sect
 Eclipse下载地址：[https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/){:target="_blank"}     
 
 ### 常见问题  
+### 交作业  
+跟上节奏，走向你的人生巅峰 
