@@ -5,8 +5,8 @@ Hello World是我们学习任何一门语言的基石，来吧，一起敲门！
 ### 环境准备    
 #### 安装JDK  
 > 安装的过程比较简单，这里不再赘述，可参考[JDK安装这篇](https://www.cnblogs.com/zll-wyf/p/15095664.html){:target="_blank"}  
-#### Intellij idea（或者Eclipse） 
-> Intellij idea安装过程请参考[这篇文档](url)  
+#### Eclipse安装过程[请参考这篇](https://www.cnblogs.com/caijiaming/p/10837083.html){:target="_blank"}   
+> Intellij idea安装过程请参考[这篇文档](https://blog.csdn.net/weixin_43184774/article/details/100578786){:target="_blank"}    
 
 ### 详细步骤  
 #### 新建工程  
