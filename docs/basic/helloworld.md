@@ -4,15 +4,21 @@ Hello World是我们学习任何一门语言的基石，来吧，一起敲门！
 
 ### 环境准备    
 #### 安装JDK  
-安装的过程比较简单，这里不再赘述，可参考[JDK安装这篇](https://www.cnblogs.com/zll-wyf/p/15095664.html){:target="_blank"}  
+> 安装的过程比较简单，这里不再赘述，可参考[JDK安装这篇](https://www.cnblogs.com/zll-wyf/p/15095664.html){:target="_blank"}  
 #### Intellij idea（或者Eclipse） 
-
+> Intellij idea安装过程请参考[这篇文档](url)  
 
 ### 详细步骤  
 #### 新建工程  
-
+> 请[参考这篇](url)
 ### 总结  
 #### 使用到的快捷键  
+> control + option + o 删除无效的import   
+command + option + L 格式化代码  
+psvm 快速书写main方法  
+sout 快速书写System.out.println()  
+option + enter 输入提醒  
+
 
 
 ### 参考文档（链接）  
