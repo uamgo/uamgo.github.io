@@ -11,6 +11,26 @@ Hello World是我们学习任何一门语言的基石，来吧，一起敲门！
 ### 详细步骤  
 #### 新建工程  
 > 请[参考这篇](url)  
+```
+public class People {
+
+    private final String name;
+
+    public People(String name) {
+        this.name = name;
+    }
+
+    public static void main(String[] args) {
+        People people = new People("老张");
+        String hello = people.sayHello();
+        System.out.println(hello);
+    }
+
+    private String sayHello() {
+        return this.name + "说：\"你好\"";
+    }
+}
+```  
 
 ### 总结  
 #### 使用到的快捷键  
